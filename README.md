@@ -12,5 +12,5 @@
    Avenida Afonso José Aielo 6-46 , Paineiras, Bauru
 ### Horário ###
    19h
-
-
+### Slides ###
+   [Link para apresentação](http://slides.com/helderdiin/bff-pattern) ou [download direto](https://raw.githubusercontent.com/DevTalksBR/DevTalks8/master/slides-bff-pattern.html).
