@@ -2,7 +2,7 @@
 ### Tema: ### 
    BFF Pattern - Seu melhor amigo backend
 ### Palestrante: ###
-   Helder Traci
+   [Helder Traci](https://helderdiin.github.io)
 ### Sobre o palestrante: ###
    Helder Traci, Desenvolvedor de Software desde 2012, focado em Frontend, mas brinca com Backend sempre que possível. Pós-graduando em Engenharia de Software. Gosta de trabalhar em equipes, ensinando e aprendendo com os colegas de trabalho. Disseminador de culturas e metodologias no ambiente de trabalho e de padrões e boas práticas durante o desenvolvimento.
 ### Sobre a palestra: ###
