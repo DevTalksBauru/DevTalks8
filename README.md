@@ -1,6 +1,6 @@
-# DevTalks7
+# DevTalks8
 ### Tema: ### 
-   BFF Pattern : Seu melhor amigo backend
+   BFF Pattern - Seu melhor amigo backend
 ### Palestrante: ###
    Helder Traci
 ### Sobre o palestrante: ###
